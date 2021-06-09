@@ -8,4 +8,4 @@
 1. This project is about detection of fraud in click traffic in mobile application advertisements.
 2. The objective of this project is to learn about data science and improve my skills in R language.
 3. This project is a part of Data Scientist Background from Data Science Academy.
-4. As soon as possible, script comments comments will also be available in English.
+4. As soon as possible, script comments will also be available in English.
